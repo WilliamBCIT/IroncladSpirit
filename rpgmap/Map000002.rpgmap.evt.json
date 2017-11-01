@@ -1,0 +1,223 @@
+{
+  "events":[
+    {
+      "id":5,
+      "name":"Event00005",
+      "x":6.5,
+      "y":2.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "It's a dresser filled with human clothes."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "The type of garments most useful for impersonating humans."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"AddRemoveItem",
+              "add":true,
+              "itemId":{
+                "jsonClass":"IntParameter",
+                "constant":29,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              },
+              "quantity":{
+                "jsonClass":"IntParameter",
+                "constant":1,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              }
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":1,
+      "name":"Event00001",
+      "x":9.5,
+      "y":5.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Strangely enough, robots don't seem to be the type to sleep in beds..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "This robot doesn't seem to have any charging capability either. How odd."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":2,
+      "name":"Event00001",
+      "x":9.5,
+      "y":6.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Strangely enough, robots don't seem to be the type to sleep in beds..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "This robot doesn't seem to have any charging capability either. How odd."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":3,
+      "name":"Event00001",
+      "x":9.5,
+      "y":4.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Strangely enough, robots don't seem to be the type to sleep in beds..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "This robot doesn't seem to have any charging capability either. How odd."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":4,
+      "name":"Event00004",
+      "x":9.5,
+      "y":2.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Light shines in from outside.",
+                "Yet, it somehow doesn't seem as bright as before..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "What gloomy circuits this robot must have!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
+  ]
+}
