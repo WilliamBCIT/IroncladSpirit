@@ -1,8 +1,8 @@
 {
-  "parent":"Map000001.rpgmap",
-  "title":"Home",
-  "xSize":20,
-  "ySize":15,
+  "parent":"Map000003.rpgmap",
+  "title":"RailWoods",
+  "xSize":40,
+  "ySize":30,
   "tilesets":[
     "sys/Refmap-TileA5.png",
     "sys/Refmap-TileB.png",
@@ -140,21 +140,16 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":true,
-  "music":{
-    "sound":"sys/weather/rain.ogg",
-    "volume":1.0,
-    "pitch":1.0
-  },
+  "interior":false,
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":10.0,
-  "editorCenterY":7.5,
-  "lastGeneratedEventId":7,
+  "editorCenterX":0.0,
+  "editorCenterY":0.0,
+  "lastGeneratedEventId":0,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
