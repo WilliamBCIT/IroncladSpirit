@@ -1,40 +1,35 @@
 [
   {
-    "name":"# Goblin",
+    "name":"# Persistent Punk",
     "units":[
       {
-        "enemyIdx":13,
+        "enemyIdx":1,
         "x":255,
         "y":210
       }
     ],
     "canEscape":true,
-    "escapeChance":0.7,
+    "escapeChance":0.8,
     "events":[
       
     ]
   },
   {
-    "name":"# 3 x Goblin",
+    "name":"# 2 x Persistent Punk",
     "units":[
       {
-        "enemyIdx":13,
-        "x":167,
+        "enemyIdx":1,
+        "x":255,
         "y":155
       },
       {
-        "enemyIdx":13,
-        "x":152,
+        "enemyIdx":1,
+        "x":240,
         "y":265
-      },
-      {
-        "enemyIdx":13,
-        "x":342,
-        "y":210
       }
     ],
     "canEscape":true,
-    "escapeChance":0.7,
+    "escapeChance":0.75,
     "events":[
       
     ]
