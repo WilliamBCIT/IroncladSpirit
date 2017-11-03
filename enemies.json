@@ -30,7 +30,7 @@
     ]
   },
   {
-    "name":"Birdman",
+    "name":"Persistent Punk",
     "battler":{
       "name":"sys/Redshrike/birdman.png",
       "scale":1.5
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "name":"Darklord",
+    "name":"Forgotten Human",
     "battler":{
       "name":"sys/Redshrike/darklord.png",
       "scale":1.3
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "name":"Eaglebadass",
+    "name":"Snobby Spirit",
     "battler":{
       "name":"sys/Redshrike/eaglebadass.png",
       "scale":1.0
