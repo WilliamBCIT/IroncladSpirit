@@ -1,8 +1,8 @@
 {
   "parent":"Map000007.rpgmap",
   "title":"Field",
-  "xSize":40,
-  "ySize":30,
+  "xSize":70,
+  "ySize":20,
   "tilesets":[
     "sys/Refmap-TileA5.png",
     "sys/Refmap-TileB.png",
@@ -147,8 +147,8 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":0.0,
-  "editorCenterY":0.0,
+  "editorCenterX":45.703125,
+  "editorCenterY":10.1875,
   "lastGeneratedEventId":0,
   "randomEncounterSettings":{
     "stepsAverage":20,
