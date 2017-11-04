@@ -1036,7 +1036,7 @@
     ]
   },
   {
-    "name":"Tortured Thoughts",
+    "name":"Tortured Thought",
     "battler":{
       "name":"sys/Redshrike/skelball.png",
       "scale":1.0
@@ -1252,7 +1252,7 @@
     ]
   },
   {
-    "name":"Turtlespike",
+    "name":"Tech Twerp V3",
     "battler":{
       "name":"sys/Redshrike/turtlespike.png",
       "scale":1.0
@@ -1279,7 +1279,7 @@
     ]
   },
   {
-    "name":"Wasp",
+    "name":"Kicky Combatant",
     "battler":{
       "name":"sys/Redshrike/wasp.png",
       "scale":1.0
@@ -1306,7 +1306,7 @@
     ]
   },
   {
-    "name":"Wizard",
+    "name":"Difficult Instructor",
     "battler":{
       "name":"sys/Public/wizard.png",
       "scale":1.0
@@ -1333,7 +1333,7 @@
     ]
   },
   {
-    "name":"Alien1",
+    "name":"Popular Fellow",
     "battler":{
       "name":"sys/C+/Alien.png",
       "scale":1.0
@@ -1360,7 +1360,7 @@
     ]
   },
   {
-    "name":"Alien2",
+    "name":"Littering Loser",
     "battler":{
       "name":"sys/C+/Alien2.png",
       "scale":1.0
@@ -1387,7 +1387,7 @@
     ]
   },
   {
-    "name":"Alien3",
+    "name":"Wimpy Worker",
     "battler":{
       "name":"sys/C+/Alien3.png",
       "scale":1.0
@@ -1414,7 +1414,7 @@
     ]
   },
   {
-    "name":"TokaTokaReis1",
+    "name":"Facility Attendant",
     "battler":{
       "name":"sys/MinusCreate/TokaTokaReis.png",
       "scale":1.0
@@ -1441,7 +1441,7 @@
     ]
   },
   {
-    "name":"TokaTokaReis2",
+    "name":"Problem Program",
     "battler":{
       "name":"sys/MinusCreate/TokaTokaReis2.png",
       "scale":1.0
@@ -1468,7 +1468,7 @@
     ]
   },
   {
-    "name":"TokaTokaReis3",
+    "name":"Average Brute",
     "battler":{
       "name":"sys/MinusCreate/TokaTokaReis3.png",
       "scale":1.0
@@ -1495,7 +1495,7 @@
     ]
   },
   {
-    "name":"Unknown1",
+    "name":"Jeerleader",
     "battler":{
       "name":"sys/MinusCreate/Unknown.png",
       "scale":1.0
@@ -1522,7 +1522,7 @@
     ]
   },
   {
-    "name":"Unknown2",
+    "name":"Lazy Lug",
     "battler":{
       "name":"sys/MinusCreate/Unknown2.png",
       "scale":1.0
@@ -1549,7 +1549,7 @@
     ]
   },
   {
-    "name":"Unknown3",
+    "name":"Right Write",
     "battler":{
       "name":"sys/MinusCreate/Unknown3.png",
       "scale":1.0
@@ -1576,7 +1576,7 @@
     ]
   },
   {
-    "name":"Frogtrident",
+    "name":"Agressive Chestnut",
     "battler":{
       "name":"sys/Redshrike/frogtrident.png",
       "scale":1.0
@@ -1603,7 +1603,7 @@
     ]
   },
   {
-    "name":"Blackcrow",
+    "name":"Perfect Exam",
     "battler":{
       "name":"sys/Redshrike/blackcrow.png",
       "scale":1.0
@@ -1630,7 +1630,7 @@
     ]
   },
   {
-    "name":"Hogaxe",
+    "name":"Tech Twerp X",
     "battler":{
       "name":"sys/Redshrike/hogaxe.png",
       "scale":1.0
@@ -1657,7 +1657,7 @@
     ]
   },
   {
-    "name":"Skeltauren",
+    "name":"Multi-Face Foe",
     "battler":{
       "name":"sys/Redshrike/skeltauren.png",
       "scale":1.5
@@ -1680,11 +1680,11 @@
       
     ],
     "skillIds":[
-      
+      3
     ]
   },
   {
-    "name":"Dragon1",
+    "name":"Darkness Fragment",
     "battler":{
       "name":"sys/Redshrike/dragon1.png",
       "scale":1.0
@@ -1711,7 +1711,7 @@
     ]
   },
   {
-    "name":"Dragon2",
+    "name":"Corrupted Friend",
     "battler":{
       "name":"sys/Redshrike/dragon2.png",
       "scale":1.0
@@ -1738,7 +1738,7 @@
     ]
   },
   {
-    "name":"Dragon3",
+    "name":"Corrupted Guardian",
     "battler":{
       "name":"sys/Redshrike/dragon3.png",
       "scale":1.0
