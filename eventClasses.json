@@ -75,6 +75,1770 @@
     ]
   },
   {
+    "name":"Solo Ending",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Ideals Ending",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Oda Ending",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Gigi Ending",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Brenda Ending",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"MVP Ending",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Team Ending",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Team Ending DX",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"First Oda Scene",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"First Smash Scene",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"First Party Scene",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"First Gigi Scene",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Gigi and Gerald",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"First Sleep Scene",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Befriend Noise",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"BOSS MVP",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"First Hope Scene",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"First Percy Scene",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"BOSS Smash",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Befriend Smash",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Befriend Oda",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Befriend Hope",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Befriend Brenda",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"BOSS Noise",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Befriend Party",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"BOSS Party",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"BOSS Strike",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
     "name":"",
     "states":[
       {
