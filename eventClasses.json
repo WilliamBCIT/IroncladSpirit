@@ -561,7 +561,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Gigi Mad",
     "states":[
       {
         "conditions":[
@@ -579,7 +579,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS MVP 2",
     "states":[
       {
         "conditions":[
@@ -597,7 +597,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Oda Tense",
     "states":[
       {
         "conditions":[
@@ -615,7 +615,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Gerald Tense",
     "states":[
       {
         "conditions":[
@@ -633,7 +633,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Hope Worry",
     "states":[
       {
         "conditions":[
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Darkness",
     "states":[
       {
         "conditions":[
@@ -669,7 +669,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Flashback 1",
     "states":[
       {
         "conditions":[
@@ -687,7 +687,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Flashback 2",
     "states":[
       {
         "conditions":[
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Graffiti",
     "states":[
       {
         "conditions":[
@@ -723,7 +723,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Facility Leader Status",
     "states":[
       {
         "conditions":[
@@ -741,7 +741,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Time Reseter Status",
     "states":[
       {
         "conditions":[
@@ -759,7 +759,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Oda Story Start",
     "states":[
       {
         "conditions":[
@@ -777,7 +777,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Oda Advice",
     "states":[
       {
         "conditions":[
@@ -795,7 +795,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Story",
     "states":[
       {
         "conditions":[
@@ -813,7 +813,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Past Hero",
     "states":[
       {
         "conditions":[
@@ -831,7 +831,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Oda Final Advice",
     "states":[
       {
         "conditions":[
@@ -849,7 +849,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Oda Final Boss",
     "states":[
       {
         "conditions":[
@@ -867,7 +867,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Gigi Story Start",
     "states":[
       {
         "conditions":[
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Gigi Advice",
     "states":[
       {
         "conditions":[
@@ -903,7 +903,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Gerald Advice",
     "states":[
       {
         "conditions":[
@@ -921,7 +921,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Idol",
     "states":[
       {
         "conditions":[
@@ -939,7 +939,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Gigi Final Advice",
     "states":[
       {
         "conditions":[
@@ -957,7 +957,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Gigi Final Boss",
     "states":[
       {
         "conditions":[
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Brenda Story Start",
     "states":[
       {
         "conditions":[
@@ -993,7 +993,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Brenda Advice",
     "states":[
       {
         "conditions":[
@@ -1011,7 +1011,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Percy Helps",
     "states":[
       {
         "conditions":[
@@ -1029,7 +1029,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Uncovered Human",
     "states":[
       {
         "conditions":[
@@ -1047,7 +1047,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Gigi and Gerald",
     "states":[
       {
         "conditions":[
@@ -1065,7 +1065,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Brenda Final Advice",
     "states":[
       {
         "conditions":[
@@ -1083,7 +1083,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Brenda Final Boss",
     "states":[
       {
         "conditions":[
