@@ -1101,7 +1101,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"MVP Story Start",
     "states":[
       {
         "conditions":[
@@ -1119,7 +1119,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Recruit Noise",
     "states":[
       {
         "conditions":[
@@ -1137,7 +1137,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Recruit Party",
     "states":[
       {
         "conditions":[
@@ -1155,7 +1155,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"MVP Advice",
     "states":[
       {
         "conditions":[
@@ -1173,7 +1173,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Thug",
     "states":[
       {
         "conditions":[
@@ -1191,7 +1191,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Dude",
     "states":[
       {
         "conditions":[
@@ -1209,7 +1209,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"MVP Advice 2",
     "states":[
       {
         "conditions":[
@@ -1227,7 +1227,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Percy",
     "states":[
       {
         "conditions":[
@@ -1245,7 +1245,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"MVP Final Advice",
     "states":[
       {
         "conditions":[
@@ -1263,7 +1263,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"MVP Final Boss",
     "states":[
       {
         "conditions":[
@@ -1281,7 +1281,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Solo Story Start",
     "states":[
       {
         "conditions":[
@@ -1299,7 +1299,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS City",
     "states":[
       {
         "conditions":[
@@ -1317,7 +1317,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"City Gate",
     "states":[
       {
         "conditions":[
@@ -1335,7 +1335,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Woods Puzzle",
     "states":[
       {
         "conditions":[
@@ -1353,7 +1353,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Manager",
     "states":[
       {
         "conditions":[
@@ -1371,7 +1371,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Leader",
     "states":[
       {
         "conditions":[
@@ -1389,7 +1389,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Final Path",
     "states":[
       {
         "conditions":[
@@ -1407,7 +1407,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Hope Oda Brenda",
     "states":[
       {
         "conditions":[
@@ -1425,7 +1425,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Solo Final Boss",
     "states":[
       {
         "conditions":[
@@ -1443,7 +1443,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Ideal Story Start",
     "states":[
       {
         "conditions":[
@@ -1461,7 +1461,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Ideal Plan Meeting",
     "states":[
       {
         "conditions":[
@@ -1479,7 +1479,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Jerks",
     "states":[
       {
         "conditions":[
@@ -1497,7 +1497,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Thought",
     "states":[
       {
         "conditions":[
@@ -1515,7 +1515,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Ideal Final Area",
     "states":[
       {
         "conditions":[
@@ -1533,7 +1533,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Betrayal",
     "states":[
       {
         "conditions":[
@@ -1551,7 +1551,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Ideal Final Boss",
     "states":[
       {
         "conditions":[
@@ -1569,7 +1569,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Balance Story Start",
     "states":[
       {
         "conditions":[
@@ -1587,7 +1587,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Memory",
     "states":[
       {
         "conditions":[
@@ -1605,7 +1605,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Reunion",
     "states":[
       {
         "conditions":[
@@ -1623,7 +1623,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"BOSS Acceptance",
     "states":[
       {
         "conditions":[
@@ -1641,7 +1641,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"School Climax",
     "states":[
       {
         "conditions":[
@@ -1659,7 +1659,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Final Boss 1",
     "states":[
       {
         "conditions":[
@@ -1677,7 +1677,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Secret Ending",
     "states":[
       {
         "conditions":[
@@ -1695,7 +1695,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Final Boss 2",
     "states":[
       {
         "conditions":[
@@ -1713,7 +1713,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest Movie Shoot",
     "states":[
       {
         "conditions":[
@@ -1731,7 +1731,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest Kind Favors",
     "states":[
       {
         "conditions":[
@@ -1749,7 +1749,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest Lost Toys",
     "states":[
       {
         "conditions":[
@@ -1767,7 +1767,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest Old Friend",
     "states":[
       {
         "conditions":[
@@ -1785,7 +1785,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest Being Tough",
     "states":[
       {
         "conditions":[
@@ -1803,7 +1803,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest School Class",
     "states":[
       {
         "conditions":[
@@ -1821,7 +1821,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest Driving",
     "states":[
       {
         "conditions":[
@@ -1839,7 +1839,7 @@
     ]
   },
   {
-    "name":"",
+    "name":"Sidequest The Arts",
     "states":[
       {
         "conditions":[
