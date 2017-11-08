@@ -1,6 +1,6 @@
 {
   "uuid":"30a9e045-f6cb-4b73-9393-efc75c655e1b",
-  "title":"Untitled Project",
+  "title":"Ironclad Spirit",
   "recentMapName":"",
   "lastCreatedMapId":39,
   "startup":{
@@ -27,7 +27,7 @@
     "screenW":640,
     "screenH":480,
     "fullscreen":false,
-    "windowIcon":"sys/icon.png",
+    "windowIcon":"Robot.png",
     "windowskin":"sys/LastPhantasmScanlines.png",
     "msgfont":"sys/VeraMono.ttf",
     "fontsize":24,
