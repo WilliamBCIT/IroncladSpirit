@@ -1,5 +1,17 @@
 {
   "events":[
-    
+    {
+      "id":6,
+      "name":"Event00001",
+      "x":1.5,
+      "y":1.5,
+      "states":[
+        
+      ],
+      "eventClassId":16,
+      "params":[
+        
+      ]
+    }
   ]
 }

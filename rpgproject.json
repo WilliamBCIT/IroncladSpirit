@@ -5,9 +5,9 @@
   "lastCreatedMapId":40,
   "startup":{
     "startingLoc":{
-      "map":"Map000002.rpgmap",
+      "map":"Map000040.rpgmap",
       "x":6.5,
-      "y":4.5
+      "y":3.5
     },
     "startingParty":[
       0

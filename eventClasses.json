@@ -351,13 +351,50 @@
         "conditions":[
           
         ],
+        "sprite":{
+          "name":"BossSprites.png",
+          "spriteIndex":0,
+          "dir":0,
+          "step":0
+        },
         "height":0,
-        "affixDirection":false,
+        "affixDirection":true,
         "trigger":1,
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Wow, you actually came here."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "You really are something..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "You just don't know when to quit."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "That's pretty funny..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
