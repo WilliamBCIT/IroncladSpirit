@@ -231,6 +231,124 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Hi!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "My name is Oda!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "What's your name?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"SetCharacterName",
+            "characterId":{
+              "jsonClass":"IntParameter",
+              "constant":0,
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            },
+            "getPlayerInput":true,
+            "fixedValue":{
+              "jsonClass":"StringParameter",
+              "constant":"",
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            }
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "It's nice to meet you..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I was looking for my sister... I think she may have wandered off."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I'm not too worried...she's pretty shy, though."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Say... Can you help me look for her? I'll stay here in case she comes back."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Don't worry about changing your plans or anything... Just tell my sister she was being missed if you see her."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Her name is Hirta!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Thank you so much!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Good luck with wherever you're going. You seem very...focused."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ]
+      },
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
           
         ]
       }
