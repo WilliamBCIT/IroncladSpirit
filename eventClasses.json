@@ -336,6 +336,15 @@
             ],
             "useCharacterFace":false,
             "characterId":0
+          },
+          {
+            "jsonClass":"SetEventState",
+            "entitySpec":{
+              "whichEntityId":1,
+              "mapName":"",
+              "eventId":-1
+            },
+            "state":1
           }
         ]
       },
@@ -349,7 +358,162 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Hi again!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"GetChoice",
+            "question":[
+              "Anything you wanted to say?"
+            ],
+            "choices":[
+              "Who are you?",
+              "Where is this place?",
+              "What is Hirta like?",
+              "What do you like to do?"
+            ],
+            "allowCancel":false,
+            "innerCmds":[
+              [
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "I'm Oda, the dragonfly!"
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "...You can't see my wings right now..."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "...For I am well dressed."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                }
+              ],
+              [
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "Oh. You don't know where this place is?"
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "This is the Heritage Park, I think."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "It's supposed to celebrate the past of our world..."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "Yet, we really don't know much about the past."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "I guess we sometimes don't anything about what's around us..."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                }
+              ],
+              [
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "Oh! My sister, Hirta?"
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "She's really nice! She's kinda quiet, though."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "If you ever meet her, she might not say much of anything."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "She's also really smart, too!"
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "I think she'll be alright on her own..."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                }
+              ],
+              [
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "I like to have lots of fun! I like to spend time with friends, too..."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                },
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "It's nice that I'm getting to know you better, too."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                }
+              ],
+              [
+                
+              ]
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
