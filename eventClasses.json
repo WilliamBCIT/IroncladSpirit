@@ -394,6 +394,181 @@
             ],
             "useCharacterFace":false,
             "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Hey, actually... I have a question."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"GetChoice",
+            "question":[
+              "Do you think I'm \"bad\"?"
+            ],
+            "choices":[
+              "Yes",
+              "No"
+            ],
+            "allowCancel":false,
+            "innerCmds":[
+              [
+                {
+                  "jsonClass":"ShowText",
+                  "lines":[
+                    "Oh."
+                  ],
+                  "useCharacterFace":false,
+                  "characterId":0
+                }
+              ],
+              [
+                
+              ],
+              [
+                
+              ]
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Whatever. I think you know too much about the way things work around here..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "You're just some machine..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "You can't be trusted."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "It looks like you made a big mistake."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"StartBattle",
+            "encounterId":{
+              "jsonClass":"IntParameter",
+              "constant":2,
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            }
+          },
+          {
+            "jsonClass":"IfCondition",
+            "conditions":[
+              {
+                "conditionTypeId":0,
+                "intValue1":{
+                  "jsonClass":"IntParameter",
+                  "constant":0,
+                  "valueTypeId":2,
+                  "localVariable":"",
+                  "globalVariable":"ignoreMVP"
+                },
+                "intValue2":{
+                  "jsonClass":"IntParameter",
+                  "constant":0,
+                  "valueTypeId":0,
+                  "localVariable":"",
+                  "globalVariable":""
+                },
+                "operatorId":0,
+                "negate":false
+              }
+            ],
+            "elseBranch":false,
+            "trueCmds":[
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "Come on! Why didn't you fight back?"
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              },
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "Do you think you're above it all?"
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              },
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "Too good to fight me, right?"
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              },
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "Well, I won't let you off easy next time."
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              },
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "Don't think you can talk to my buddies, either. They sure don't want to talk to you."
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              },
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "I'll bet... No one ever talks to someone like you first."
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              },
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "You always find someone else. You always make the first move. No one else will..."
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              },
+              {
+                "jsonClass":"ShowText",
+                "lines":[
+                  "Sad."
+                ],
+                "useCharacterFace":false,
+                "characterId":0
+              }
+            ],
+            "elseCmds":[
+              
+            ]
           }
         ]
       }
