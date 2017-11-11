@@ -4,11 +4,12 @@
   "xSize":40,
   "ySize":30,
   "tilesets":[
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png"
+    "Outside_A1.png",
+    "Outside_A2.png",
+    "Outside_A3.png",
+    "Outside_A4.png",
+    "Outside_B.png",
+    "Indoor_A2.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",

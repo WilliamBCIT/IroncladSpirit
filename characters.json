@@ -4,8 +4,8 @@
     "subtitle":"Adventurer",
     "description":"An ordinary boy thrust into extraordinary circumstances.",
     "sprite":{
-      "name":"sys/vx_chara01_a.png",
-      "spriteIndex":4,
+      "name":"HeroSprites.png",
+      "spriteIndex":0,
       "dir":0,
       "step":1
     },
