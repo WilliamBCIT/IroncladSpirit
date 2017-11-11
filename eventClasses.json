@@ -603,6 +603,150 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "It looks like nothing could possibly wake him..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "He'll probably be like this for a while."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ]
+      },
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Oh, he's still out cold."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "WAKE UP, MAN!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Wha-?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Hey! Why'd you wake me up?!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "We have to see MVP!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "YOU ALWAYS DO THIS!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "BECAUSE YOU ALWAYS MESS UP!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "BECAUSE YOU'RE ALWAYS SO DRAMATIC!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "YOU'RE JUST AN IDIOT!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I'LL GET THE OTHERS TO BEAT YOU UP, I SWEAR!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "OH YEAH?! I CAN TAKE THEM ALL!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "(The two stormed off together...)"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "(Noise and Sleep don't seem to get along together very well...)"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ]
+      },
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
           
         ]
       }
@@ -905,7 +1049,30 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Watch out for MVP! He's really bad!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Seriously! Don't trust him!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
@@ -923,7 +1090,110 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "...I'm gonna drag the rest of the group down, now."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Both of my hands are busted..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "There's no point in not telling you what we do anymore."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "My buds and I...Strike, Sleep, Noise, Party, and MVP..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I guess we just kind of wander around this city and do whatever we want."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "It's...pretty great. We don't let anyone else push us around or tell us what to do."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Nothing wrong with being happy, right?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "...Sometimes we had it pretty rough."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Whatever..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I kind of want to keep an eye out for you now, OK?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I mean... I don't want anything bad to happen to you."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Just don't tell MVP."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Then he'd break my face, too."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
@@ -941,7 +1211,38 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I'm so glad we found Hirta!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I suppose she never was in trouble, in the first place..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Say! It would be great if you visited our house!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Come on! Let's go!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
@@ -995,7 +1296,14 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Hey... You've been talking about me behind my back to everyone else, huh?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
@@ -1067,7 +1375,22 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I can't believe this!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "The things MVP and those other idiots do!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
@@ -1139,7 +1462,30 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I'm a little scared right now..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I think everything will be fine in the end, though."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "We'll always be there for each other..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
