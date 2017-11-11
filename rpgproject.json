@@ -28,8 +28,8 @@
     "screenH":480,
     "fullscreen":false,
     "windowIcon":"Robot.png",
-    "windowskin":"sys/LastPhantasmScanlines.png",
-    "msgfont":"sys/VeraMono.ttf",
+    "windowskin":"window.png",
+    "msgfont":"PixelTitle.ttf",
     "fontsize":24,
     "stringInputCharacters":"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 -._",
     "soundCursor":{
