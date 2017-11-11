@@ -12,7 +12,7 @@
     "startingParty":[
       0
     ],
-    "titlePic":"sys/LordSpirit.jpg",
+    "titlePic":"titlescreen.png",
     "titleMusic":{
       "sound":"sys/sean_m_stephens/TitleMoon.mid",
       "volume":1.0,
