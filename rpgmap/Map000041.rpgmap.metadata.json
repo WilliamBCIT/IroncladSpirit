@@ -1,8 +1,8 @@
 {
-  "parent":"Map000001.rpgmap",
-  "title":"DarkStairs",
-  "xSize":40,
-  "ySize":30,
+  "parent":"Map000007.rpgmap",
+  "title":"QuietHall",
+  "xSize":30,
+  "ySize":15,
   "tilesets":[
     "sys/Refmap-TileA5.png",
     "sys/Refmap-TileB.png",
@@ -10,8 +10,8 @@
     "sys/Refmap-TileD.png",
     "sys/Refmap-TileE.png",
     "Indoor_A4.png",
-    "Outside_B.png",
-    "Indoor_A2.png"
+    "Indoor_A2.png",
+    "Outside_B.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -143,16 +143,16 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":true,
+  "interior":false,
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":16.640625,
-  "editorCenterY":9.8125,
-  "lastGeneratedEventId":4,
+  "editorCenterX":15.0,
+  "editorCenterY":7.5,
+  "lastGeneratedEventId":3,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[

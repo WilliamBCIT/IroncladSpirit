@@ -597,8 +597,14 @@
         "conditions":[
           
         ],
-        "height":0,
-        "affixDirection":false,
+        "sprite":{
+          "name":"BossSprites.png",
+          "spriteIndex":0,
+          "dir":0,
+          "step":1
+        },
+        "height":1,
+        "affixDirection":true,
         "trigger":1,
         "animationType":0,
         "runOnceThenIncrementState":false,
@@ -606,7 +612,8 @@
           {
             "jsonClass":"ShowText",
             "lines":[
-              "It looks like nothing could possibly wake him..."
+              "It looks like nothing could possibly wake him up...",
+              "He also is kind of REALLY in the way of the door..."
             ],
             "useCharacterFace":false,
             "characterId":0
