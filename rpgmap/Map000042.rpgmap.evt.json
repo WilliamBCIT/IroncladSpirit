@@ -1,0 +1,39 @@
+{
+  "events":[
+    {
+      "id":2,
+      "name":"Event00001",
+      "x":4.5,
+      "y":7.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "The darkness...",
+                "It's everywhere now.",
+                "Will it ever be gone?",
+                "Will my friends be saved?"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
+  ]
+}
