@@ -1582,13 +1582,57 @@
         "conditions":[
           
         ],
-        "height":0,
-        "affixDirection":false,
+        "sprite":{
+          "name":"BossSprites.png",
+          "spriteIndex":2,
+          "dir":0,
+          "step":1
+        },
+        "height":1,
+        "affixDirection":true,
         "trigger":1,
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Hi! Thanks for dropping by.",
+              "I guess you're in a hurry,so I won't bore you with chatter.",
+              "So, where do you need to get to?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"GetChoice",
+            "question":[
+              "Which area should be explored?"
+            ],
+            "choices":[
+              "Heritage Park",
+              "Woods",
+              "Plains",
+              "Beach"
+            ],
+            "allowCancel":true,
+            "innerCmds":[
+              [
+                
+              ],
+              [
+                
+              ],
+              [
+                
+              ],
+              [
+                
+              ]
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
