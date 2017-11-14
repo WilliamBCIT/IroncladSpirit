@@ -1,15 +1,15 @@
 {
-  "parent":"Map000003.rpgmap",
-  "title":"NostalgicRoad",
-  "xSize":30,
-  "ySize":15,
+  "parent":"Map000042.rpgmap",
+  "title":"SchoolHall",
+  "xSize":25,
+  "ySize":20,
   "tilesets":[
     "sys/Refmap-TileA5.png",
     "sys/Refmap-TileB.png",
     "sys/Refmap-TileC.png",
     "sys/Refmap-TileD.png",
     "sys/Refmap-TileE.png",
-    "Outside_A2.png"
+    "LastAreaTileset.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -148,8 +148,8 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":15.0,
-  "editorCenterY":7.5,
+  "editorCenterX":12.5,
+  "editorCenterY":9.8125,
   "lastGeneratedEventId":0,
   "randomEncounterSettings":{
     "stepsAverage":20,
