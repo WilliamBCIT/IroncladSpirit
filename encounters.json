@@ -87,6 +87,22 @@
           }
         ],
         "maxFrequency":1
+      },
+      {
+        "conditions":[
+          
+        ],
+        "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Ha. Hope you don't mind all my friends being here to watch you lose."
+            ],
+            "useCharacterFace":true,
+            "characterId":5
+          }
+        ],
+        "maxFrequency":1
       }
     ]
   },

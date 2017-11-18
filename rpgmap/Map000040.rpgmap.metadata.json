@@ -143,7 +143,7 @@
     "sys/Refmap-A4-5-7.png"
   ],
   "interior":false,
-  "battleBackground":"sys/Etolier/01sougen.jpg",
+  "battleBackground":"BattleBGCrowd.png",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
     "volume":1.0,
