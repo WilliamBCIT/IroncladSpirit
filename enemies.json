@@ -2,8 +2,8 @@
   {
     "name":"MVP",
     "battler":{
-      "name":"sys/Public/basilisk.png",
-      "scale":1.5
+      "name":"MVPBattle.png",
+      "scale":1.0
     },
     "level":50,
     "mhp":5000,
