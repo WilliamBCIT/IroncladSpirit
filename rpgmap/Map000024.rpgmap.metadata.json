@@ -8,7 +8,9 @@
     "sys/Refmap-TileB.png",
     "sys/Refmap-TileC.png",
     "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png"
+    "sys/Refmap-TileE.png",
+    "luiishu1.png",
+    "luiishu2.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -147,8 +149,8 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":0.0,
-  "editorCenterY":0.0,
+  "editorCenterX":16.640625,
+  "editorCenterY":9.8125,
   "lastGeneratedEventId":0,
   "randomEncounterSettings":{
     "stepsAverage":20,
