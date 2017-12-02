@@ -1699,8 +1699,14 @@
         "conditions":[
           
         ],
-        "height":0,
-        "affixDirection":false,
+        "sprite":{
+          "name":"BossSprites.png",
+          "spriteIndex":0,
+          "dir":0,
+          "step":2
+        },
+        "height":1,
+        "affixDirection":true,
         "trigger":1,
         "animationType":0,
         "runOnceThenIncrementState":false,

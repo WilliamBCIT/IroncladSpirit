@@ -10,7 +10,8 @@
     "sys/Refmap-TileD.png",
     "sys/Refmap-TileE.png",
     "WoodsA2.png",
-    "WoodsA4.png"
+    "WoodsA4.png",
+    "treetile.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -149,9 +150,9 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":13.453125,
-  "editorCenterY":20.453125,
-  "lastGeneratedEventId":0,
+  "editorCenterX":16.640625,
+  "editorCenterY":9.8125,
+  "lastGeneratedEventId":1,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
