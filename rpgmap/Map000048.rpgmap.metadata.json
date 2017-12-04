@@ -1,16 +1,10 @@
 {
   "parent":"",
-  "title":"Beach",
-  "xSize":70,
+  "title":"Oda's House",
+  "xSize":40,
   "ySize":30,
   "tilesets":[
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png",
-    "beachA.png",
-    "beachB.png"
+    "odahouse.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -142,9 +136,9 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":false,
+  "interior":true,
   "music":{
-    "sound":"mapbeach.mp3",
+    "sound":"maphome.mp3",
     "volume":1.0,
     "pitch":1.0
   },
@@ -155,8 +149,8 @@
     "pitch":1.0
   },
   "editorCenterX":16.640625,
-  "editorCenterY":20.1875,
-  "lastGeneratedEventId":1,
+  "editorCenterY":9.8125,
+  "lastGeneratedEventId":0,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[

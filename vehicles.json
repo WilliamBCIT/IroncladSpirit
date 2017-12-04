@@ -1,8 +1,8 @@
 [
   {
-    "name":"Ship",
+    "name":"Float",
     "sprite":{
-      "name":"sys/oga_vehicles.png",
+      "name":"HeroSprites.png",
       "spriteIndex":1,
       "dir":0,
       "step":1

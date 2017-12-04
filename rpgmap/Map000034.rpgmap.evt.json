@@ -1,5 +1,49 @@
 {
   "events":[
-    
+    {
+      "id":1,
+      "name":"Event00001",
+      "x":31.5,
+      "y":12.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":1,
+            "dir":0,
+            "step":0
+          },
+          "height":1,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"PlaceVehicle",
+              "vehicleId":{
+                "jsonClass":"IntParameter",
+                "constant":0,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              },
+              "loc":{
+                "map":"Map000034.rpgmap",
+                "x":2.5,
+                "y":28.5
+              }
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
   ]
 }
