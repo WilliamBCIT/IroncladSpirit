@@ -1,11 +1,10 @@
 {
-  "parent":"Map000009.rpgmap",
-  "title":"FacilityMain",
-  "xSize":40,
-  "ySize":30,
+  "parent":"Map000048.rpgmap",
+  "title":"Oda's Room",
+  "xSize":20,
+  "ySize":15,
   "tilesets":[
-    "outsidelibrary.png",
-    "WoodsA2.png"
+    "odahouse.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -139,7 +138,7 @@
   ],
   "interior":true,
   "music":{
-    "sound":"mapfacility.mp3",
+    "sound":"maprelax.mp3",
     "volume":1.0,
     "pitch":1.0
   },
@@ -149,9 +148,9 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":23.359375,
-  "editorCenterY":9.8125,
-  "lastGeneratedEventId":4,
+  "editorCenterX":10.0,
+  "editorCenterY":7.5,
+  "lastGeneratedEventId":1,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[

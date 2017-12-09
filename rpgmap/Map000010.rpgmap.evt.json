@@ -1,5 +1,228 @@
 {
   "events":[
-    
+    {
+      "id":1,
+      "name":"Event00001",
+      "x":32.5,
+      "y":7.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Hey! Wait up!",
+                "You really aren't leaving so soon, are you?",
+                "...We didn't even think anything could exist out there before we found you..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"SetEventState",
+              "entitySpec":{
+                "whichEntityId":1,
+                "mapName":"Map000010.rpgmap",
+                "eventId":1
+              },
+              "state":1
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":2,
+      "name":"Event00001",
+      "x":33.5,
+      "y":7.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Hey! Wait up!",
+                "You really aren't leaving so soon, are you?",
+                "...We didn't even think anything could exist out there before we found you..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"SetEventState",
+              "entitySpec":{
+                "whichEntityId":1,
+                "mapName":"Map000010.rpgmap",
+                "eventId":1
+              },
+              "state":1
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":3,
+      "name":"Event00001",
+      "x":34.5,
+      "y":7.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Hey! Wait up!",
+                "You really aren't leaving so soon, are you?",
+                "...We didn't even think anything could exist out there before we found you..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"SetEventState",
+              "entitySpec":{
+                "whichEntityId":1,
+                "mapName":"Map000010.rpgmap",
+                "eventId":1
+              },
+              "state":1
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":4,
+      "name":"Event00001",
+      "x":35.5,
+      "y":7.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Hey! Wait up!",
+                "You really aren't leaving so soon, are you?",
+                "...We didn't even think anything could exist out there before we found you..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"SetEventState",
+              "entitySpec":{
+                "whichEntityId":1,
+                "mapName":"Map000010.rpgmap",
+                "eventId":1
+              },
+              "state":1
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
   ]
 }

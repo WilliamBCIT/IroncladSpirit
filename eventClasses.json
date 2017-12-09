@@ -1020,13 +1020,48 @@
         "conditions":[
           
         ],
-        "height":0,
+        "sprite":{
+          "name":"BossSprites.png",
+          "spriteIndex":0,
+          "dir":1,
+          "step":0
+        },
+        "height":1,
         "affixDirection":false,
         "trigger":1,
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowPicture",
+            "slot":{
+              "jsonClass":"IntParameter",
+              "constant":8,
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            },
+            "picture":"guardianflashback.png",
+            "layout":{
+              "layoutTypeId":0,
+              "sizeTypeId":1,
+              "w":1.0,
+              "h":1.0,
+              "xOffset":0.0,
+              "yOffset":0.0
+            },
+            "alpha":1.0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "So, the part of the world unleashing the darkness wasn't always a bad place to be?",
+              "It was protected by these...guardians with their knowledge?",
+              "...Until the time came when they disappeared?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
