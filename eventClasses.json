@@ -1061,6 +1061,36 @@
             ],
             "useCharacterFace":false,
             "characterId":0
+          },
+          {
+            "jsonClass":"ShowPicture",
+            "slot":{
+              "jsonClass":"IntParameter",
+              "constant":8,
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            },
+            "picture":"troubleflashback.png",
+            "layout":{
+              "layoutTypeId":0,
+              "sizeTypeId":1,
+              "w":1.0,
+              "h":1.0,
+              "xOffset":0.0,
+              "yOffset":0.0
+            },
+            "alpha":1.0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Now the only souls here are these fools who treat everything like a joke.",
+              "The prank earlier managed to make things even worse!",
+              "Now, their apathy will ruin our one chance to stop the darkness."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
           }
         ]
       }
