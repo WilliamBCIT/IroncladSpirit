@@ -1,14 +1,13 @@
 {
-  "parent":"Map000009.rpgmap",
-  "title":"FHall2",
-  "xSize":40,
-  "ySize":30,
+  "parent":"Map000001.rpgmap",
+  "title":"ParkCenter",
+  "xSize":80,
+  "ySize":50,
   "tilesets":[
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png"
+    "wilds1.png",
+    "wilds2.png",
+    "wilds3.png",
+    "wilds4.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -140,7 +139,12 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":true,
+  "interior":false,
+  "music":{
+    "sound":"mappark.mp3",
+    "volume":1.0,
+    "pitch":1.0
+  },
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
@@ -149,7 +153,7 @@
   },
   "editorCenterX":16.640625,
   "editorCenterY":9.8125,
-  "lastGeneratedEventId":0,
+  "lastGeneratedEventId":4,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
