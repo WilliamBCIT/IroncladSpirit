@@ -1350,13 +1350,36 @@
         "conditions":[
           
         ],
-        "height":0,
-        "affixDirection":false,
+        "sprite":{
+          "name":"BossSprites.png",
+          "spriteIndex":0,
+          "dir":2,
+          "step":0
+        },
+        "height":1,
+        "affixDirection":true,
         "trigger":1,
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"TintScreen",
+            "r":0.0,
+            "g":0.0,
+            "b":0.0,
+            "a":0.60784316,
+            "fadeDuration":1.0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I'm the spirit who protects these woods, as you CLEARLY didn't know yet. ",
+              "That's fine, though. What I truly hate is those idiots who destroy this wonderful place.",
+              "They're all alike..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
