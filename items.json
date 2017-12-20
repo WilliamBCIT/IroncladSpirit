@@ -1,6 +1,6 @@
 [
   {
-    "name":"Damaged Sword",
+    "name":"Instruction Manual",
     "desc":"A beginner sword.",
     "effects":[
       
@@ -15,7 +15,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Glove",
+    "name":"Exclusive Calculator",
     "desc":"A beginner glove",
     "effects":[
       
@@ -30,7 +30,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Pant",
+    "name":"Confounding Toolbox",
     "desc":"A beginner pant",
     "effects":[
       
@@ -45,7 +45,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Helmet",
+    "name":"Malfunction Machine",
     "desc":"A beginner helmet",
     "effects":[
       
@@ -60,7 +60,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Legging",
+    "name":"Corrupted Compiler",
     "desc":"A beginner legging",
     "effects":[
       
@@ -75,7 +75,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Chestplate",
+    "name":"Cable Lasso",
     "desc":"A beginner chestplate",
     "effects":[
       
@@ -90,7 +90,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Shield",
+    "name":"Robot's Purpose",
     "desc":"A beginner shield",
     "effects":[
       
@@ -105,7 +105,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Staff",
+    "name":"Aggressive Disc",
     "desc":"A beginner staff",
     "effects":[
       
@@ -120,7 +120,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Bow",
+    "name":"Kind Disc",
     "desc":"A beginner bow",
     "effects":[
       
@@ -135,7 +135,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Damaged Dagger",
+    "name":"Surprising Disc",
     "desc":"A beginner dagger",
     "effects":[
       
@@ -150,7 +150,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Weak Ice Bomb",
+    "name":"Sweater for Robot",
     "desc":"A bomb that does 100 ice damage",
     "effects":[
       {
@@ -169,7 +169,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Weak Fire Bomb",
+    "name":"Screen Protector",
     "desc":"A bomb that does 100 fire damage",
     "effects":[
       {
@@ -188,7 +188,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Weak Earth Bomb",
+    "name":"Fancy Goggles",
     "desc":"A bomb that does 100 earth damage",
     "effects":[
       {
@@ -207,7 +207,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Weak Wind Bomb",
+    "name":"Webcam",
     "desc":"A bomb that does 100 wind damage",
     "effects":[
       {
@@ -226,7 +226,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Fire Sword",
+    "name":"Friend's Gift",
     "desc":"A sword with the power of fire",
     "effects":[
       
@@ -241,7 +241,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Ice Sword",
+    "name":"Annoying Toy",
     "desc":"A sword with the power of ice",
     "effects":[
       
@@ -256,7 +256,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Earth Sword",
+    "name":"Punchy Plushie",
     "desc":"",
     "effects":[
       
@@ -271,7 +271,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Wind Sword",
+    "name":"Bop Hammer",
     "desc":"",
     "effects":[
       
@@ -286,7 +286,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Minor Health Potion",
+    "name":"Roxanne the Rock",
     "desc":"A potion that heal 100 hp",
     "effects":[
       {
@@ -305,7 +305,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Health Potion",
+    "name":"Gleaming Pendant",
     "desc":"A Potion that heal 250 hp",
     "effects":[
       {
@@ -324,7 +324,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Orb of Fire",
+    "name":"Mascarade Mask",
     "desc":"A orb that drain a user mp in exchange for casting fire",
     "effects":[
       {
@@ -343,7 +343,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Orb of Ice",
+    "name":"Hand-Stitched Shirt",
     "desc":"A orb that drain a user mp in exchange for casting fire",
     "effects":[
       {
@@ -362,7 +362,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Orb of Earth",
+    "name":"Homemade Craft",
     "desc":"A orb that drain a user mp in exchange for casting earth",
     "effects":[
       {
@@ -381,7 +381,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Orb of Wind",
+    "name":"Spooky Branch",
     "desc":"A orb that drain a user mp in exchange for casting wind",
     "effects":[
       {
@@ -400,7 +400,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Minor Strenght Potion",
+    "name":"Toy Sword",
     "desc":"A potion that temproary boost Attack",
     "effects":[
       {
@@ -419,7 +419,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Minor Magic Potion",
+    "name":"Brenda's Sword",
     "desc":"A potion that temproary boost Magic",
     "effects":[
       {
@@ -438,7 +438,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Minor Body Potion",
+    "name":"Famous Blade",
     "desc":"A potion that temproary boost Armor and Mag Res",
     "effects":[
       {
@@ -457,7 +457,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Small Key",
+    "name":"Mystery Vest",
     "desc":"A small key?",
     "effects":[
       
@@ -472,7 +472,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Fire Armor",
+    "name":"\"Handy\" Gloves",
     "desc":"A chestplate that resist 50 fire damage",
     "effects":[
       {
@@ -491,7 +491,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Ice Armor",
+    "name":"Wacky Wig",
     "desc":"A chestplate that resist 50 ice damage",
     "effects":[
       {
@@ -510,7 +510,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Earth Armor",
+    "name":"Familar Pin",
     "desc":"A chestplate that resist 50 earth damage",
     "effects":[
       {
@@ -529,7 +529,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"Rein Wind Armor",
+    "name":"Miracle Shield",
     "desc":"A chestplate that resist 50 wind damage",
     "effects":[
       {
@@ -572,7 +572,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Cute Stuff",
     "desc":"",
     "effects":[
       
@@ -587,7 +587,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Filmmaking Set",
     "desc":"",
     "effects":[
       
@@ -602,7 +602,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Power Pom Poms",
     "desc":"",
     "effects":[
       
@@ -617,7 +617,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Makeup Brushes",
     "desc":"",
     "effects":[
       
@@ -632,7 +632,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Lovely Bracelets",
     "desc":"",
     "effects":[
       
@@ -647,7 +647,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Matching Outfits",
     "desc":"",
     "effects":[
       
@@ -662,7 +662,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Couple's Necklaces",
     "desc":"",
     "effects":[
       
@@ -677,7 +677,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Pair of Drawings",
     "desc":"",
     "effects":[
       
@@ -692,7 +692,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Unpopular Opinions",
     "desc":"",
     "effects":[
       
@@ -707,7 +707,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Bad Ideas",
     "desc":"",
     "effects":[
       
@@ -722,7 +722,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Lame Excuses",
     "desc":"",
     "effects":[
       
@@ -737,7 +737,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Hurt Feelings",
     "desc":"",
     "effects":[
       
@@ -752,7 +752,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Relaxed Clothes",
     "desc":"",
     "effects":[
       
@@ -767,7 +767,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Beanie V2",
     "desc":"",
     "effects":[
       
@@ -782,7 +782,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Scary Fashion Statement",
     "desc":"",
     "effects":[
       
@@ -797,7 +797,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Instant Campsite",
     "desc":"",
     "effects":[
       
@@ -812,7 +812,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Sport Tape",
     "desc":"",
     "effects":[
       
@@ -827,7 +827,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Trustworthy Basketball",
     "desc":"",
     "effects":[
       
@@ -842,7 +842,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Clobbering Gloves",
     "desc":"",
     "effects":[
       
@@ -857,7 +857,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Solid Bat",
     "desc":"",
     "effects":[
       
@@ -872,7 +872,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Rich Watch",
     "desc":"",
     "effects":[
       
@@ -887,7 +887,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Tough Jersey",
     "desc":"",
     "effects":[
       
@@ -902,7 +902,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Thug's Jacket",
     "desc":"",
     "effects":[
       
@@ -917,7 +917,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Backwards Cap",
     "desc":"",
     "effects":[
       
@@ -932,7 +932,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Wild Hat",
     "desc":"",
     "effects":[
       
@@ -947,7 +947,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Awesome Pics",
     "desc":"",
     "effects":[
       
@@ -962,7 +962,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Rebel's Bandana",
     "desc":"",
     "effects":[
       
@@ -977,7 +977,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Gold Chain",
     "desc":"",
     "effects":[
       
@@ -992,7 +992,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Chipply Chips",
     "desc":"",
     "effects":[
       
@@ -1007,7 +1007,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Breakfast Bits",
     "desc":"",
     "effects":[
       
@@ -1022,7 +1022,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Trendy Salad",
     "desc":"",
     "effects":[
       
@@ -1037,7 +1037,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Plain Food",
     "desc":"",
     "effects":[
       
@@ -1052,7 +1052,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"CANDY!",
     "desc":"",
     "effects":[
       
@@ -1067,7 +1067,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"HYPER CANDY!!!",
     "desc":"",
     "effects":[
       
@@ -1082,7 +1082,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Simple Sandwich",
     "desc":"",
     "effects":[
       
@@ -1097,7 +1097,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Complex Sandwich",
     "desc":"",
     "effects":[
       
@@ -1112,7 +1112,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Abstract Sandwich",
     "desc":"",
     "effects":[
       
