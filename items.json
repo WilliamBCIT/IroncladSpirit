@@ -25,7 +25,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":5,
+    "equipType":0,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -40,7 +40,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":7,
+    "equipType":0,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -55,7 +55,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":3,
+    "equipType":0,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -70,7 +70,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":8,
+    "equipType":0,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -85,7 +85,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":2,
+    "equipType":0,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -100,7 +100,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":1,
+    "equipType":0,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -115,7 +115,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":0,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -130,7 +130,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":0,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -145,7 +145,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":0,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -486,7 +486,7 @@
     "itemTypeId":2,
     "accessId":3,
     "scopeId":0,
-    "equipType":2,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -505,7 +505,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":2,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -524,7 +524,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":2,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -543,7 +543,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":2,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -567,7 +567,7 @@
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":4,
+    "equipType":1,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },
@@ -1127,7 +1127,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Coffee from Doug",
     "desc":"",
     "effects":[
       
@@ -1142,7 +1142,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Jittery Juice",
     "desc":"",
     "effects":[
       
@@ -1157,7 +1157,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"World-Shattering Tea",
     "desc":"",
     "effects":[
       
@@ -1172,7 +1172,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"\"Just Water\"",
     "desc":"",
     "effects":[
       
@@ -1187,7 +1187,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Go-Grub",
     "desc":"",
     "effects":[
       
@@ -1202,7 +1202,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Frozen Composition",
     "desc":"",
     "effects":[
       
@@ -1217,7 +1217,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Soda Geyser",
     "desc":"",
     "effects":[
       
@@ -1232,7 +1232,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Cookie Cookies",
     "desc":"",
     "effects":[
       
@@ -1247,7 +1247,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Meal Moment",
     "desc":"",
     "effects":[
       
@@ -1262,7 +1262,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Bake Sale Cooperation Incentives",
     "desc":"",
     "effects":[
       
@@ -1277,7 +1277,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Beach Eats",
     "desc":"",
     "effects":[
       
@@ -1292,7 +1292,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Intense Protein",
     "desc":"",
     "effects":[
       
@@ -1307,7 +1307,7 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
+    "name":"Home Cooked Meal",
     "desc":"",
     "effects":[
       
