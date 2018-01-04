@@ -107,23 +107,67 @@
     ]
   },
   {
-    "name":"# Goblin, Goblinwiz",
+    "name":"# 3 x High-Tech Twerp",
     "units":[
       {
-        "enemyIdx":13,
-        "x":255,
+        "enemyIdx":11,
+        "x":167,
         "y":155
       },
       {
-        "enemyIdx":21,
-        "x":240,
+        "enemyIdx":11,
+        "x":152,
         "y":265
+      },
+      {
+        "enemyIdx":11,
+        "x":342,
+        "y":210
       }
     ],
     "canEscape":true,
     "escapeChance":0.7,
     "events":[
-      
+      {
+        "conditions":[
+          
+        ],
+        "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "This place's Wi-Fi is terrible! I can't get any signal bars!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Stupid technology! I hate it!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Me too! Let's go beat up that robot over there!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Yeah! Give us back the Wi-Fi, you bandwith-stealing jerk!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ],
+        "maxFrequency":1
+      }
     ]
   },
   {

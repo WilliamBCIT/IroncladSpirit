@@ -807,7 +807,7 @@
             "lines":[
               "Wow, you actually came here."
             ],
-            "useCharacterFace":true,
+            "useCharacterFace":false,
             "characterId":5
           },
           {
@@ -815,7 +815,7 @@
             "lines":[
               "You really are something..."
             ],
-            "useCharacterFace":true,
+            "useCharacterFace":false,
             "characterId":5
           },
           {
@@ -823,7 +823,7 @@
             "lines":[
               "You just don't know when to quit."
             ],
-            "useCharacterFace":true,
+            "useCharacterFace":false,
             "characterId":5
           },
           {
@@ -831,7 +831,7 @@
             "lines":[
               "That's pretty funny..."
             ],
-            "useCharacterFace":true,
+            "useCharacterFace":false,
             "characterId":5
           },
           {
@@ -839,7 +839,7 @@
             "lines":[
               "Hey, actually... I have a question."
             ],
-            "useCharacterFace":true,
+            "useCharacterFace":false,
             "characterId":5
           },
           {
@@ -878,7 +878,7 @@
             "lines":[
               "Whatever. I think you know too much about the way things work around here..."
             ],
-            "useCharacterFace":true,
+            "useCharacterFace":false,
             "characterId":5
           },
           {
@@ -1799,7 +1799,14 @@
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
-          
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I'm so glad you came! There's not really much time to spare..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
         ]
       }
     ]
@@ -2850,6 +2857,24 @@
   },
   {
     "name":"Sidequest The Arts",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "height":0,
+        "affixDirection":false,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Credits",
     "states":[
       {
         "conditions":[

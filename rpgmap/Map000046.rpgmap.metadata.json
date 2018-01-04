@@ -144,6 +144,11 @@
     "sys/Refmap-A4-5-7.png"
   ],
   "interior":false,
+  "music":{
+    "sound":"mapsureal.mp3",
+    "volume":1.0,
+    "pitch":1.0
+  },
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",

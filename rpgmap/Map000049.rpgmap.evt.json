@@ -1,5 +1,70 @@
 {
   "events":[
-    
+    {
+      "id":2,
+      "name":"Event00001",
+      "x":8.5,
+      "y":2.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":0,
+            "dir":2,
+            "step":1
+          },
+          "height":1,
+          "affixDirection":true,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Thank you for using this Friend-A-Vend vending device, providing the friendliest possible vending services!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"OpenStore",
+              "itemIdsSold":{
+                "jsonClass":"IntArrayParameter",
+                "constant":[
+                  64,
+                  71,
+                  72,
+                  61,
+                  73,
+                  65
+                ],
+                "valueTypeId":0,
+                "localVariable":""
+              },
+              "buyPriceMultiplier":{
+                "jsonClass":"FloatParameter",
+                "constant":1.0,
+                "valueTypeId":0,
+                "localVariable":""
+              },
+              "sellPriceMultiplier":{
+                "jsonClass":"FloatParameter",
+                "constant":0.5,
+                "valueTypeId":0,
+                "localVariable":""
+              }
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
   ]
 }

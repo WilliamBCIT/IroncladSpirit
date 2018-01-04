@@ -1,13 +1,10 @@
 {
   "parent":"Map000034.rpgmap",
-  "title":"CityHall",
-  "xSize":60,
-  "ySize":30,
+  "title":"Welcoming House",
+  "xSize":20,
+  "ySize":15,
   "tilesets":[
-    "wilds2.png",
-    "houses.png",
-    "wilds1.png",
-    "wilds3.png"
+    "candy.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -139,9 +136,9 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":false,
+  "interior":true,
   "music":{
-    "sound":"mapkindtown.mp3",
+    "sound":"scenefun.mp3",
     "volume":1.0,
     "pitch":1.0
   },
@@ -151,8 +148,8 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":32.046875,
-  "editorCenterY":9.8125,
+  "editorCenterX":10.0,
+  "editorCenterY":7.5,
   "lastGeneratedEventId":0,
   "randomEncounterSettings":{
     "stepsAverage":20,

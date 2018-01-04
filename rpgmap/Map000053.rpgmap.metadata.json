@@ -4,9 +4,7 @@
   "xSize":80,
   "ySize":15,
   "tilesets":[
-    "TownTiles.png",
-    "wilds4.png",
-    "outsidelibrary.png"
+    
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",

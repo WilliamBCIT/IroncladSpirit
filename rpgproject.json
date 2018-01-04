@@ -2,12 +2,12 @@
   "uuid":"30a9e045-f6cb-4b73-9393-efc75c655e1b",
   "title":"Ironclad Spirit",
   "recentMapName":"",
-  "lastCreatedMapId":53,
+  "lastCreatedMapId":55,
   "startup":{
     "startingLoc":{
-      "map":"Map000053.rpgmap",
-      "x":12.5,
-      "y":6.5
+      "map":"Map000010.rpgmap",
+      "x":34.5,
+      "y":2.5
     },
     "startingParty":[
       0
@@ -73,7 +73,7 @@
     "Skill":"Skill",
     "Defeat":"Defeat",
     "MRE:":"MRE:",
-    "Gold:":"Gold:",
+    "Gold:":"Wants:",
     "Buy":"Buy",
     "Escape":"Escape",
     "Attack":"Attack",

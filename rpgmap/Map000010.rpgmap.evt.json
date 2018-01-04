@@ -111,6 +111,70 @@
       ]
     },
     {
+      "id":29,
+      "name":"Event00029",
+      "x":2.5,
+      "y":7.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":2,
+            "dir":1,
+            "step":1
+          },
+          "height":1,
+          "affixDirection":true,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "What a great morning! Absolutely nothing could go wrong!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Oh yeah! Everyone else was inside waiting for you. They were talking about the \"situation\"."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "That sounds fun!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"StartBattle",
+              "encounterId":{
+                "jsonClass":"IntParameter",
+                "constant":3,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              }
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
       "id":1,
       "name":"Event00001",
       "x":32.5,
@@ -227,6 +291,88 @@
           ],
           "height":0,
           "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":28,
+      "name":"Event00028",
+      "x":22.5,
+      "y":26.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":1,
+            "dir":1,
+            "step":2
+          },
+          "height":1,
+          "affixDirection":true,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Good luck out there! If the darkness consumes the world, this place's electric bill will go through the roof!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"TintScreen",
+              "r":0.0,
+              "g":0.0,
+              "b":0.0,
+              "a":0.69803923,
+              "fadeDuration":1.0
+            },
+            {
+              "jsonClass":"SetEventState",
+              "entitySpec":{
+                "whichEntityId":1,
+                "mapName":"Map000010.rpgmap",
+                "eventId":1
+              },
+              "state":1
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "...But seriously, if this whole disaster doesn't work out I'm gonna FREAK OUT."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":1,
+            "dir":2,
+            "step":2
+          },
+          "height":1,
+          "affixDirection":true,
           "trigger":1,
           "animationType":0,
           "runOnceThenIncrementState":false,
