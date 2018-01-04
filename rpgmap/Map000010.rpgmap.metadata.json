@@ -143,13 +143,13 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "battleBackground":"sys/Etolier/01sougen.jpg",
+  "battleBackground":"ForestBG.png",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":23.359375,
+  "editorCenterX":16.640625,
   "editorCenterY":9.8125,
   "lastGeneratedEventId":29,
   "randomEncounterSettings":{

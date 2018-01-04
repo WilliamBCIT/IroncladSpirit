@@ -107,7 +107,7 @@
     ]
   },
   {
-    "name":"# 3 x High-Tech Twerp",
+    "name":"# 4 x High-Tech Twerp",
     "units":[
       {
         "enemyIdx":11,
@@ -122,7 +122,12 @@
       {
         "enemyIdx":11,
         "x":342,
-        "y":210
+        "y":155
+      },
+      {
+        "enemyIdx":11,
+        "x":327,
+        "y":265
       }
     ],
     "canEscape":true,
