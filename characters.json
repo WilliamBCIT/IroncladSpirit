@@ -240,8 +240,8 @@
     "subtitle":"Wizard",
     "description":"A gifted young woman intensely devoted to her craft.",
     "sprite":{
-      "name":"sys/vx_chara01_a.png",
-      "spriteIndex":1,
+      "name":"HeroSprites.png",
+      "spriteIndex":4,
       "dir":0,
       "step":1
     },
