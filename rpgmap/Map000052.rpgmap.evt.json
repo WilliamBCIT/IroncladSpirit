@@ -25,6 +25,69 @@
       "params":[
         
       ]
+    },
+    {
+      "id":6,
+      "name":"Event00006",
+      "x":8.5,
+      "y":36.5,
+      "states":[
+        
+      ],
+      "eventClassId":28,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":7,
+      "name":"Event00007",
+      "x":10.5,
+      "y":32.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":2,
+            "dir":0,
+            "step":0
+          },
+          "height":1,
+          "affixDirection":true,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":1,
+            "dir":2,
+            "step":1
+          },
+          "height":1,
+          "affixDirection":true,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
     }
   ]
 }

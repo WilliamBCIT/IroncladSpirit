@@ -1,11 +1,10 @@
 {
-  "parent":"Map000003.rpgmap",
-  "title":"HistoricRoad",
-  "xSize":40,
-  "ySize":30,
+  "parent":"Map000024.rpgmap",
+  "title":"Bright Dock",
+  "xSize":30,
+  "ySize":20,
   "tilesets":[
-    "trainstation.png",
-    "darkextra.png"
+    "treetile.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -144,9 +143,9 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":16.640625,
+  "editorCenterX":15.0,
   "editorCenterY":9.8125,
-  "lastGeneratedEventId":1,
+  "lastGeneratedEventId":2,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[

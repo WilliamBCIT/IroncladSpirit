@@ -1470,12 +1470,97 @@
         "conditions":[
           
         ],
-        "height":0,
-        "affixDirection":false,
+        "sprite":{
+          "name":"BossSprites.png",
+          "spriteIndex":1,
+          "dir":0,
+          "step":2
+        },
+        "height":1,
+        "affixDirection":true,
         "trigger":1,
         "animationType":0,
         "runOnceThenIncrementState":false,
         "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "You know what?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "This is OK!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Why?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowPicture",
+            "slot":{
+              "jsonClass":"IntParameter",
+              "constant":8,
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            },
+            "picture":"GigiAngry.png",
+            "layout":{
+              "layoutTypeId":0,
+              "sizeTypeId":1,
+              "w":1.0,
+              "h":1.0,
+              "xOffset":0.0,
+              "yOffset":0.0
+            },
+            "alpha":1.0
+          },
+          {
+            "jsonClass":"SetEventState",
+            "entitySpec":{
+              "whichEntityId":3,
+              "mapName":"Map000052.rpgmap",
+              "eventId":7
+            },
+            "state":1
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Those jerks just littered for the last time!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"HidePicture",
+            "slot":{
+              "jsonClass":"IntParameter",
+              "constant":8,
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            }
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Since, like, we're gonna throw them out of this park for good... Right?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
           {
             "jsonClass":"ShowText",
             "lines":[
