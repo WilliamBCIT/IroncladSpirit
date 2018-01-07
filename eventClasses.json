@@ -1770,6 +1770,62 @@
           {
             "jsonClass":"ShowText",
             "lines":[
+              "So... Not trying to rock the boat or anything..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "But everyone is talking about how the darkness started to form right around the same time we found you..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Oh! Not blaming you or anything..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "I'm just not a big fan of personal confrontation... So I didn't exactly stop them from getting really angry..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "...That's also why we're here in the secret room."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "...Because everyone is blaming you now..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "But if you fixed this, everything will be great!"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
               "Hi! Thanks for dropping by.",
               "I guess you're in a hurry,so I won't bore you with chatter.",
               "So, where do you need to get to?"

@@ -65,6 +65,96 @@
       "params":[
         
       ]
+    },
+    {
+      "id":3,
+      "name":"Event00003",
+      "x":16.5,
+      "y":2.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":1,
+            "dir":1,
+            "step":0
+          },
+          "height":1,
+          "affixDirection":true,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowPicture",
+              "slot":{
+                "jsonClass":"IntParameter",
+                "constant":8,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              },
+              "picture":"robotdiscovery.png",
+              "layout":{
+                "layoutTypeId":0,
+                "sizeTypeId":1,
+                "w":1.0,
+                "h":1.0,
+                "xOffset":0.0,
+                "yOffset":0.0
+              },
+              "alpha":1.0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Do we really have to go on this walk? It's so far past the edge..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "It's important to check the surroundings of the barricade, you know!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Yeah, or the monsters will get us..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Well... I think we've gone far enough. Let's head back!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Wait... What's in here?"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
     }
   ]
 }
