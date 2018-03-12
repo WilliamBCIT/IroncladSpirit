@@ -1,12 +1,11 @@
 {
   "parent":"Map000009.rpgmap",
-  "title":"Mountain Descent",
-  "xSize":40,
-  "ySize":70,
+  "title":"Train Platform",
+  "xSize":20,
+  "ySize":15,
   "tilesets":[
-    "outsidelibrary.png",
-    "wilds2.png",
-    "wilds4.png"
+    "trainstation.png",
+    "darkextra.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -138,9 +137,9 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":false,
+  "interior":true,
   "music":{
-    "sound":"mapordinary.mp3",
+    "sound":"mapdanger.mp3",
     "volume":1.0,
     "pitch":1.0
   },
@@ -150,9 +149,9 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":16.640625,
-  "editorCenterY":9.8125,
-  "lastGeneratedEventId":17,
+  "editorCenterX":10.0,
+  "editorCenterY":7.5,
+  "lastGeneratedEventId":4,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[

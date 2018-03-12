@@ -1,43 +1,10 @@
 {
   "events":[
     {
-      "id":5,
-      "name":"Event00001",
-      "x":35.5,
-      "y":1.5,
-      "states":[
-        {
-          "conditions":[
-            
-          ],
-          "height":0,
-          "affixDirection":false,
-          "trigger":2,
-          "animationType":0,
-          "runOnceThenIncrementState":false,
-          "cmds":[
-            {
-              "jsonClass":"Teleport",
-              "loc":{
-                "map":"Map000059.rpgmap",
-                "x":7.5,
-                "y":13.5
-              },
-              "transitionId":1
-            }
-          ]
-        }
-      ],
-      "eventClassId":-1,
-      "params":[
-        
-      ]
-    },
-    {
       "id":1,
       "name":"Event00001",
-      "x":4.5,
-      "y":0.5,
+      "x":7.5,
+      "y":2.5,
       "states":[
         {
           "conditions":[
@@ -50,46 +17,13 @@
           "runOnceThenIncrementState":false,
           "cmds":[
             {
-              "jsonClass":"Teleport",
-              "loc":{
-                "map":"Map000023.rpgmap",
-                "x":3.5,
-                "y":66.5
-              },
-              "transitionId":1
-            }
-          ]
-        }
-      ],
-      "eventClassId":-1,
-      "params":[
-        
-      ]
-    },
-    {
-      "id":6,
-      "name":"Event00001",
-      "x":36.5,
-      "y":1.5,
-      "states":[
-        {
-          "conditions":[
-            
-          ],
-          "height":0,
-          "affixDirection":false,
-          "trigger":2,
-          "animationType":0,
-          "runOnceThenIncrementState":false,
-          "cmds":[
-            {
-              "jsonClass":"Teleport",
-              "loc":{
-                "map":"Map000059.rpgmap",
-                "x":7.5,
-                "y":13.5
-              },
-              "transitionId":1
+              "jsonClass":"ShowText",
+              "lines":[
+                "Wait! Please don't leave!",
+                "This is just too dangerous!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
             }
           ]
         }
@@ -102,8 +36,8 @@
     {
       "id":2,
       "name":"Event00001",
-      "x":5.5,
-      "y":0.5,
+      "x":6.5,
+      "y":14.5,
       "states":[
         {
           "conditions":[
@@ -118,9 +52,9 @@
             {
               "jsonClass":"Teleport",
               "loc":{
-                "map":"Map000023.rpgmap",
-                "x":3.5,
-                "y":66.5
+                "map":"Map000058.rpgmap",
+                "x":35.5,
+                "y":4.5
               },
               "transitionId":1
             }
@@ -135,8 +69,8 @@
     {
       "id":3,
       "name":"Event00001",
-      "x":3.5,
-      "y":0.5,
+      "x":7.5,
+      "y":14.5,
       "states":[
         {
           "conditions":[
@@ -151,9 +85,9 @@
             {
               "jsonClass":"Teleport",
               "loc":{
-                "map":"Map000023.rpgmap",
-                "x":3.5,
-                "y":66.5
+                "map":"Map000058.rpgmap",
+                "x":35.5,
+                "y":4.5
               },
               "transitionId":1
             }
@@ -168,8 +102,8 @@
     {
       "id":4,
       "name":"Event00001",
-      "x":2.5,
-      "y":0.5,
+      "x":8.5,
+      "y":14.5,
       "states":[
         {
           "conditions":[
@@ -184,9 +118,9 @@
             {
               "jsonClass":"Teleport",
               "loc":{
-                "map":"Map000023.rpgmap",
-                "x":3.5,
-                "y":66.5
+                "map":"Map000058.rpgmap",
+                "x":35.5,
+                "y":4.5
               },
               "transitionId":1
             }
