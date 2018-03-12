@@ -1,5 +1,29 @@
 {
   "events":[
-    
+    {
+      "id":1,
+      "name":"Door01",
+      "x":9.5,
+      "y":5.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
   ]
 }

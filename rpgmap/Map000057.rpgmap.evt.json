@@ -1,0 +1,50 @@
+{
+  "events":[
+    {
+      "id":1,
+      "name":"Event00001",
+      "x":11.5,
+      "y":7.5,
+      "states":[
+        
+      ],
+      "eventClassId":40,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":2,
+      "name":"Event00002",
+      "x":13.5,
+      "y":2.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"Teleport",
+              "loc":{
+                "map":"Map000019.rpgmap",
+                "x":9.5,
+                "y":8.5
+              },
+              "transitionId":1
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
+  ]
+}

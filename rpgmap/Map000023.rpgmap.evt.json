@@ -34,6 +34,39 @@
       ]
     },
     {
+      "id":10,
+      "name":"Event00001",
+      "x":5.5,
+      "y":69.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"Teleport",
+              "loc":{
+                "map":"Map000058.rpgmap",
+                "x":3.5,
+                "y":3.5
+              },
+              "transitionId":1
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
       "id":1,
       "name":"Event00001",
       "x":1.5,
@@ -88,6 +121,39 @@
                 "map":"Map000010.rpgmap",
                 "x":5.5,
                 "y":28.5
+              },
+              "transitionId":1
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":9,
+      "name":"Event00001",
+      "x":4.5,
+      "y":69.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"Teleport",
+              "loc":{
+                "map":"Map000058.rpgmap",
+                "x":3.5,
+                "y":3.5
               },
               "transitionId":1
             }
@@ -187,6 +253,72 @@
                 "map":"Map000010.rpgmap",
                 "x":5.5,
                 "y":28.5
+              },
+              "transitionId":1
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":11,
+      "name":"Event00001",
+      "x":6.5,
+      "y":69.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"Teleport",
+              "loc":{
+                "map":"Map000058.rpgmap",
+                "x":3.5,
+                "y":3.5
+              },
+              "transitionId":1
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":8,
+      "name":"Event00001",
+      "x":3.5,
+      "y":69.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"Teleport",
+              "loc":{
+                "map":"Map000058.rpgmap",
+                "x":3.5,
+                "y":3.5
               },
               "transitionId":1
             }

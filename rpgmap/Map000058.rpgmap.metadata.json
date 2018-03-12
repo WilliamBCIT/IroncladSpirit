@@ -1,12 +1,11 @@
 {
   "parent":"Map000009.rpgmap",
-  "title":"Mountain Descent",
+  "title":"EdgeOfTheDarkness",
   "xSize":40,
-  "ySize":70,
+  "ySize":30,
   "tilesets":[
-    "outsidelibrary.png",
     "wilds2.png",
-    "wilds4.png"
+    "beachB.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -139,20 +138,15 @@
     "sys/Refmap-A4-5-7.png"
   ],
   "interior":false,
-  "music":{
-    "sound":"mapordinary.mp3",
-    "volume":1.0,
-    "pitch":1.0
-  },
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":16.640625,
-  "editorCenterY":60.1875,
-  "lastGeneratedEventId":11,
+  "editorCenterX":23.359375,
+  "editorCenterY":9.875,
+  "lastGeneratedEventId":4,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[

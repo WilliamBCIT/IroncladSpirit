@@ -1,18 +1,13 @@
 [
   {
     "name":"Graphite",
-    "subtitle":"Adventurer",
-    "description":"An ordinary boy thrust into extraordinary circumstances.",
+    "subtitle":"Robot ",
+    "description":"The hero of this story, a robot discovered alone near the darkness...",
     "sprite":{
       "name":"HeroSprites.png",
       "spriteIndex":0,
       "dir":0,
       "step":1
-    },
-    "face":{
-      "faceset":"sys/mackie/face_m01a_1.png",
-      "faceX":0,
-      "faceY":1
     },
     "initLevel":1,
     "maxLevel":50,

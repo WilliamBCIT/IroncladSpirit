@@ -46,12 +46,31 @@
   },
   {
     "name":"Malfunction Machine",
-    "desc":"A beginner helmet",
+    "desc":"It's good at being bad.",
     "effects":[
-      
+      {
+        "keyId":303,
+        "v1":-5,
+        "v2":0
+      },
+      {
+        "keyId":302,
+        "v1":47,
+        "v2":0
+      },
+      {
+        "keyId":200,
+        "v1":3,
+        "v2":20
+      },
+      {
+        "keyId":305,
+        "v1":10,
+        "v2":0
+      }
     ],
     "sellable":true,
-    "price":100,
+    "price":750,
     "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
