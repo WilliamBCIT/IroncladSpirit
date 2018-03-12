@@ -1,14 +1,10 @@
 {
   "parent":"Map000009.rpgmap",
   "title":"LibraryF1",
-  "xSize":40,
-  "ySize":30,
+  "xSize":20,
+  "ySize":40,
   "tilesets":[
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png"
+    "odahouse.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -147,9 +143,9 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":0.0,
-  "editorCenterY":0.0,
-  "lastGeneratedEventId":0,
+  "editorCenterX":10.0,
+  "editorCenterY":30.1875,
+  "lastGeneratedEventId":4,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
