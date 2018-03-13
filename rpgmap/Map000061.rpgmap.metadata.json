@@ -1,16 +1,12 @@
 {
-  "parent":"",
-  "title":"Beach",
-  "xSize":70,
-  "ySize":30,
+  "parent":"Map000007.rpgmap",
+  "title":"Arrival Platform",
+  "xSize":20,
+  "ySize":15,
   "tilesets":[
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png",
-    "beachA.png",
-    "beachB.png"
+    "odahouse.png",
+    "trainstation.png",
+    "TownTiles.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -142,21 +138,16 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":false,
-  "music":{
-    "sound":"mapbeach.mp3",
-    "volume":1.0,
-    "pitch":1.0
-  },
+  "interior":true,
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":16.640625,
-  "editorCenterY":9.8125,
-  "lastGeneratedEventId":1,
+  "editorCenterX":10.0,
+  "editorCenterY":7.5,
+  "lastGeneratedEventId":0,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
