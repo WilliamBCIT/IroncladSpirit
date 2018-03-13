@@ -1,14 +1,12 @@
 {
   "parent":"Map000034.rpgmap",
   "title":"CityHallRoad",
-  "xSize":40,
-  "ySize":30,
+  "xSize":30,
+  "ySize":60,
   "tilesets":[
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png"
+    "wilds2.png",
+    "beachB.png",
+    "TownTiles.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -147,9 +145,9 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":0.0,
-  "editorCenterY":0.0,
-  "lastGeneratedEventId":0,
+  "editorCenterX":15.0,
+  "editorCenterY":31.40625,
+  "lastGeneratedEventId":8,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
