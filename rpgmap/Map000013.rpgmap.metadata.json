@@ -137,6 +137,11 @@
     "sys/Refmap-A4-5-7.png"
   ],
   "interior":true,
+  "music":{
+    "sound":"mapkindtown.mp3",
+    "volume":1.0,
+    "pitch":1.0
+  },
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
@@ -145,7 +150,7 @@
   },
   "editorCenterX":10.0,
   "editorCenterY":30.1875,
-  "lastGeneratedEventId":4,
+  "lastGeneratedEventId":9,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
