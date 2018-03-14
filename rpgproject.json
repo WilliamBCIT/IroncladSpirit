@@ -2,12 +2,12 @@
   "uuid":"30a9e045-f6cb-4b73-9393-efc75c655e1b",
   "title":"Ironclad Spirit",
   "recentMapName":"",
-  "lastCreatedMapId":62,
+  "lastCreatedMapId":63,
   "startup":{
     "startingLoc":{
-      "map":"Map000062.rpgmap",
-      "x":3.5,
-      "y":7.5
+      "map":"Map000063.rpgmap",
+      "x":10.5,
+      "y":3.5
     },
     "startingParty":[
       0
