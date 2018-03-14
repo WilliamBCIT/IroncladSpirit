@@ -1,19 +1,6 @@
 {
   "events":[
     {
-      "id":2,
-      "name":"Event00001",
-      "x":31.5,
-      "y":4.5,
-      "states":[
-        
-      ],
-      "eventClassId":9,
-      "params":[
-        
-      ]
-    },
-    {
       "id":5,
       "name":"Event00005",
       "x":43.5,
