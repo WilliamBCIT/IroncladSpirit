@@ -7,7 +7,8 @@
     "wilds1.png",
     "wilds2.png",
     "wilds3.png",
-    "wilds4.png"
+    "wilds4.png",
+    "Rustic.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -153,7 +154,7 @@
   },
   "editorCenterX":10.0,
   "editorCenterY":9.8125,
-  "lastGeneratedEventId":4,
+  "lastGeneratedEventId":13,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[
