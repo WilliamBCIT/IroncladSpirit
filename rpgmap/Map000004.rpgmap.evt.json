@@ -1,5 +1,43 @@
 {
   "events":[
-    
+    {
+      "id":1,
+      "name":"Event00001",
+      "x":13.5,
+      "y":16.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"BossSprites.png",
+            "spriteIndex":2,
+            "dir":0,
+            "step":2
+          },
+          "height":1,
+          "affixDirection":true,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Hey. Find a job yet?",
+                "You should REALLY find one."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
   ]
 }

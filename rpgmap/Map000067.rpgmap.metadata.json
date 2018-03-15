@@ -1,17 +1,11 @@
 {
-  "parent":"",
-  "title":"Plaza",
-  "xSize":30,
-  "ySize":25,
+  "parent":"Map000003.rpgmap",
+  "title":"Maze",
+  "xSize":40,
+  "ySize":30,
   "tilesets":[
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png",
-    "WoodsA2.png",
     "WoodsA4.png",
-    "treetile.png"
+    "WoodsA2.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -150,20 +144,13 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":15.0,
+  "editorCenterX":16.640625,
   "editorCenterY":9.8125,
-  "lastGeneratedEventId":1,
+  "lastGeneratedEventId":0,
   "randomEncounterSettings":{
-    "stepsAverage":50,
+    "stepsAverage":20,
     "encounters":[
-      {
-        "encounterId":0,
-        "weight":10
-      },
-      {
-        "encounterId":1,
-        "weight":5
-      }
+      
     ]
   }
 }
